@@ -13,11 +13,6 @@ class DevopsExerciseApplicationTests {
     }
 
     @Test
-    void shouldFail (){
-        assertEquals(1, 2);
-    }
-
-    @Test
     void shouldBeTrue(){
         assertEquals(1,1);
     }
