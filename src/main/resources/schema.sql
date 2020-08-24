@@ -1,7 +1,0 @@
-DROP TABLE IF EXISTS ACCOUNTS;
-
-CREATE TABLE ACCOUNTS{
-id INT AUTO_INCREMENT PRIMARY KEY,
-socialSecurityNumber varchar (250) NOT NULL,
-accountNumber varchar (250) NOT NULL
-};
